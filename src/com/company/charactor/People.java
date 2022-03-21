@@ -1,4 +1,4 @@
-package com.company;
+package com.company.charactor;
 
 //1. 객체지향 프로그래밍의 시작
 public class People {

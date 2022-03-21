@@ -1,4 +1,4 @@
-package com.company;
+package com.company.charactor;
 
 public class Wizard extends Beginner {
     @Override
